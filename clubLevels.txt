@@ -1,0 +1,30 @@
+Cretaceous Club:Edmontosaurus:5
+Cretaceous Club:Albertosaurus:10
+Cretaceous Club:Argentinosaurus:15
+Cretaceous Club:Anklyosaurus:20
+Cretaceous Club:Edmontonia:25
+Cretaceous Club:Albertaceratops:30
+Cretaceous Club:Velociraptor:35
+Cretaceous Club:Triceratops:40
+Cretaceous Club:Parasaurolophus:45
+Cretaceous Club:Tyrannosaurus:1000
+Safari Summer:meerkat:2
+Safari Summer:hyena:4
+Safari Summer:hippopotamus:6
+Safari Summer:rhinoceros:7
+Safari Summer:cheetah:8
+Safari Summer:wildebeest:10
+Safari Summer:zebra:12
+Safari Summer:giraffe:14
+Safari Summer:elephant:16
+Safari Summer:lion:18
+Ocean Explorers:coral:5
+Ocean Explorers:crab:10
+Ocean Explorers:clownfish:15
+Ocean Explorers:seahorse:20
+Ocean Explorers:blue dragon:25
+Ocean Explorers:manta ray:30
+Ocean Explorers:dolphin:35
+Ocean Explorers:octopus:40
+Ocean Explorers:sea turtle:45
+Ocean Explorers:blue whale:1000

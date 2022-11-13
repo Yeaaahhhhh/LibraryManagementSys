@@ -1,0 +1,178 @@
+************************************
+WELCOME TO EPL's SUMMER READING CLUB
+************************************
+Please enter the club's start date (YYYYMMDD): 20190229
+Invalid date entered. Please enter the club's start date (YYYYMMDD): 20201305
+Invalid date entered. Please enter the club's start date (YYYYMMDD): 20200513
+
+Themes to select from:
+- Cretaceous Club
+- Ocean Explorers
+- Safari Summer
+Please pick a theme from the list above: 3
+Invalid entry. Please pick a theme from the list above: 
+Invalid entry. Please pick a theme from the list above: c
+Invalid entry. Please pick a theme from the list above: s
+Invalid entry. Please pick a theme from the list above: Safari Summer
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 2
+Library Card Number: 1234567
+Invalid library card number.
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 2
+Library Card Number: 1231357
+
+Report for:    ARCHIBA* S
+Age on 2020 05 13:      2
+-------------------------
+Books read:
+-The Very Hungry Caterpi*
+-The Velveteen Rabbit
+-The Tale of Peter Rabbit
+-The Tale of Mrs. Tiggy-*
+-Peppa's Christmas Wish
+-------------------------
+Total books read:       5
+Level:       HIPPOPOTAMUS
+-------------------------
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 2
+Library Card Number: 2350001
+
+Report for:       SUSIE Q
+Age on 2020 05 13:      3
+-------------------------
+Books read:
+-The Tale of the Pie and*
+-The Tale of Mr. Jeremy *
+-The Story of a Fierce B*
+-The Story of Miss Moppet
+-The Tale of Tom Kitten
+-The Tale of Jemima Pudd*
+-The Tale of Samuel Whis*
+-The Tale of the Flopsy *
+-The Tale of Ginger and *
+-The Tale of Mrs. Tittle*
+-The Tale of Timmy Tipto*
+-The Tale of Mr. Tod
+-The Tale of Pigling Bla*
+-Appley Dapply's Nursery*
+-The Tale of Johnny Town*
+-Cecily Parsley's Nurser*
+-The Tale of Little Pig *
+-The Velveteen Rabbit
+-The Tale of Peter Rabbit
+-The Tale of Mrs. Tiggy-*
+-The Tale of Squirrel Nu*
+-The Tailor of Gloucester
+-The Tale of Benjamin Bu*
+-The Tale of Two Bad Mice
+-The Giving Tree
+-The Day the Crayons Quit
+-The Gruffalo
+-The Gruffalo's Child
+-The Wonderful Things Yo*
+-Where the Wild Things A*
+-------------------------
+Total books read:      30
+Level:               LION
+-------------------------
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 2
+Library Card Number: 5986638
+
+Report for:       FIONA O
+Age on 2020 05 13:     13
+-------------------------
+Books read:
+None yet...
+-------------------------
+Total books read:       0
+Level:            MEERKAT
+-------------------------
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 3
++=============+==================+============+
+|  Age Group  | Total Books Read | Top Reader |
++-------------+------------------+------------+
+| 5 and under |        72        | SUSIE Q    |
+|         6-9 |        16        | Tied!      |
+|       10-13 |        0         | N/A        |
++=============+==================+============+
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 1
+Card number: 1234567
+Invalid library card number. Card number: 5986638
+Book title: Alice's Adventures in Wonderland
+Library branch: Woodcroft
+Record added successfully.
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 2
+Library Card Number: 5986638
+
+Report for:       FIONA O
+Age on 2020 05 13:     13
+-------------------------
+Books read:
+-Alice's Adventures in W*
+-------------------------
+Total books read:       1
+Level:            MEERKAT
+-------------------------
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 3
++=============+==================+============+
+|  Age Group  | Total Books Read | Top Reader |
++-------------+------------------+------------+
+| 5 and under |        72        | SUSIE Q    |
+|         6-9 |        16        | Tied!      |
+|       10-13 |        1         | FIONA O    |
++=============+==================+============+
+
+What would you like to do?
+1. Record a book that has been read.
+2. Generate a participant report.
+3. Summarize club activity.
+4. Quit
+> 4
+Goodbye
